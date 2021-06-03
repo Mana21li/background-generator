@@ -1,0 +1,54 @@
+body{
+	font-family: 'Odibee Sans', cursive;
+	text-align: center;
+	text-transform: uppercase;
+	background: linear-gradient(to right, rgb(67, 209, 189), rgb(207, 242, 41));
+}
+
+h1{
+	font-size: 10vh;
+	margin-top: 80px;
+	font-weight: 2000;
+}
+
+h2{
+	font-size: 8vh;
+	margin-bottom: 60px;
+}
+
+h3{
+	font-size: 5vh;
+	text-transform: none;
+	letter-spacing: 2px;
+}
+
+input{
+	padding: 1px;
+	margin: 6px;
+}
+#code-box{
+	background-color: rgba(0,0,0,0.4);
+	color: White;
+	font-size: 3vh;
+	padding: 19px 15px 19px 15px;
+	border-radius: 0px 8px 8px 8px;
+	text-transform: none;
+	width: 60%;
+    margin: 0 auto;
+    display: block;
+    border-bottom: 4px solid #fff;
+}
+#cssSyntax{
+	background-color: rgba(0,0,0,0.4);
+	color: White;
+	font-size: 3vh;
+	padding: 19px 17px 19px 17px;
+	border-radius: 8px 8px 0px 0px;
+	text-transform: none;
+	width: 6%;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    right: 363px;
+    border-top: 4px solid #fff;
+}
